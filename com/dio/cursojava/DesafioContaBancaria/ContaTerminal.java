@@ -1,4 +1,4 @@
-package com.dio.cursojava;
+package com.dio.cursojava.DesafioContaBancaria;
 
 import java.util.Scanner;
 
